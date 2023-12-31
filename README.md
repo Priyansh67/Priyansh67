@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Namdev</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 Reach me here **priyanshnamdev67@gmail.com**
 
